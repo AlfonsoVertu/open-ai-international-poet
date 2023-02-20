@@ -2,7 +2,7 @@ const openai = require("openai");
 
 // Set your OpenAI API key
 
-openai.apiKey = "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";
+openai.apiKey = "";
 
 // Set the prompt for Chat GPT
 
