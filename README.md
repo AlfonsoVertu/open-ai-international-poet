@@ -1,6 +1,6 @@
 ﻿# Open AI International Poet.
 
-In this però u can found an complete environment for build a personal Artificial Automated Poet 
+In this repository u can found an complete environment for build a personal Artificial Automated Poet 
 
 U can run this node application in windows or in docker .
 
